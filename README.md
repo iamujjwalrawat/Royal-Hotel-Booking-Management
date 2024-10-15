@@ -1,6 +1,6 @@
 # Royal-Hotel-using-React-and-Spring-boot
 
-This is done using React.js, Spring Boot, and Spring Security
+This is done using respective technologies i.e React.js, Spring Boot, and Spring Security
 
 This project aims to provide a comprehensive hotel management system built with React.js for the frontend, Spring Boot for the backend, and Spring Security for authentication and authorization.
 
